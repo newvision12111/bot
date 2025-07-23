@@ -1,0 +1,10 @@
+python-telegram-bot==20.0
+
+
+
+webuiapi
+
+
+
+Pillow
+
